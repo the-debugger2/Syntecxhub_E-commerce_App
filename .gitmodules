@@ -1,0 +1,6 @@
+[submodule "ecommerce_frontend"]
+	path = ecommerce_frontend
+	url = https://github.com/the-debugger2/ecommerce_frontend
+[submodule "ecommerce_Backend"]
+	path = ecommerce_Backend
+	url = https://github.com/the-debugger2/ecommerce_Backend
