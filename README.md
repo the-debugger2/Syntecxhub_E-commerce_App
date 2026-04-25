@@ -37,7 +37,7 @@ ecommerce-store/
 
 ```bash
 # Clone the repo and initialise all submodules in one command
-git clone --recurse-submodules https://github.com/your-username/ecommerce-store.git
+git clone --recurse-submodules https://github.com/the-debugger2/Syntecxhub_E-commerce_App.git
 
 # If you already cloned without submodules, run:
 git submodule update --init --recursive
@@ -95,7 +95,7 @@ git submodule update --remote --merge
 ### 1. Clone the repository
 
 ```bash
-git clone --recurse-submodules https://github.com/your-username/ecommerce-store.git
+git clone --recurse-submodules https://github.com/the-debugger2/Syntecxhub_E-commerce_App.git
 cd ecommerce-store
 ```
 
@@ -289,21 +289,6 @@ Frontend runs on `http://localhost:5173`
 
 ---
 
-## 🎨 Design System
-
-All styles live in `Frontend/src/App.css`. The design uses a **dark editorial theme** with CSS custom properties:
-
-| Variable | Value | Usage |
-|---|---|---|
-| `--bg` | `#0f0f0f` | Page background |
-| `--surface` | `#181818` | Cards, panels |
-| `--accent` | `#d4a843` | Amber — buttons, badges, highlights |
-| `--text` | `#e8e4dc` | Primary text |
-| `--text-muted` | `#7a7570` | Secondary text |
-| `--font-display` | Playfair Display | Headings, prices |
-| `--font-body` | DM Sans | All other text |
-
----
 
 ## 🛠️ Scripts
 
